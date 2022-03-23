@@ -1,4 +1,5 @@
 {
+  "homepage": "http://imzigma.github.io/tienda-aguacates/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
